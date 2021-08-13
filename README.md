@@ -14,4 +14,4 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 ## Software
 
  * [Junction](https://luteberget.github.io/junction)
- * [railplot](https://luteberget.github.com/railplot)
+ * [railplot](https://github.com/luteberget/railplot)
