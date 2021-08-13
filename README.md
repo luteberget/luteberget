@@ -19,7 +19,3 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 Ph.D. thesis (2019): [Automated Reasoning for Planning Railway Infrastructure](https://luteberget.github.io/preprints/luteberget-thesis-plain-b5-2019-09-17.pdf)
 
-## Software
-
- * [Junction](https://luteberget.github.io/junction)
- * [railplot](https://github.com/luteberget/railplot)
