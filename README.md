@@ -4,7 +4,7 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
- * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](https://luteberget.github.io/preprints/deadlockrail-2021-08-13.pdf)  
+ * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](https://luteberget.github.io/preprints/deadlockrail-2021-10-08.pdf)  
  2021 - Bjørnar Luteberget
  * [Drawing with SAT: Four Methods and A Tool for Producing Railway Infrastructure Schematics](https://luteberget.github.io/preprints/schematic-2021-03-18.pdf)  
  2019-2021 - Bjørnar Luteberget, Koen Claessen, Christian Johansen
