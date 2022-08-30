@@ -4,7 +4,7 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
- * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](https://luteberget.github.io/preprints/smttimelines-2022-08-30.pdf) 
+ * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](https://luteberget.github.io/preprints/smttimelines-2022-08-30.pdf)  
  2021 - Bjørnar Luteberget, Synne Fossøy
  * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](https://luteberget.github.io/preprints/deadlockrail-2021-08-13.pdf)  
  2021 - Bjørnar Luteberget
