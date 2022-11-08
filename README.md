@@ -4,8 +4,10 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
+ * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](https://luteberget.github.io/preprints/feasibilityjump-2022-11-07.pdf)  
+ 2022 - Bjørnar Luteberget, Giorgio Sartor
  * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](https://luteberget.github.io/preprints/smttimelines-2022-08-30.pdf)  
- 2021 - Bjørnar Luteberget, Synne Fossøy
+ 2021-2022 - Bjørnar Luteberget, Synne Fossøy
  * [Improving Online Railway Deadlock Detection using a Partial Order Reduction](https://luteberget.github.io/preprints/deadlockrail-2021-08-13.pdf)  
  2021 - Bjørnar Luteberget
  * [Drawing with SAT: Four Methods and A Tool for Producing Railway Infrastructure Schematics](https://luteberget.github.io/preprints/schematic-2021-03-18.pdf)  
