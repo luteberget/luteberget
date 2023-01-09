@@ -4,7 +4,7 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
- * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](https://luteberget.github.io/preprints/feasibilityjump-2022-11-07.pdf)  
+ * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](https://luteberget.github.io/preprints/feasibilityjump-2023-01-09.pdf)  
  2022 - Bjørnar Luteberget, Giorgio Sartor
  * [Abstraction Refinement of Parallel Transition Systems in an SMT-based Timeline Planner](https://luteberget.github.io/preprints/smttimelines-2022-08-30.pdf)  
  2021-2022 - Bjørnar Luteberget, Synne Fossøy
