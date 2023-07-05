@@ -4,6 +4,8 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
+ * [A MaxSAT approach for solving a new Dynamic Discretization Discovery model for train rescheduling problems](maxsatddd-2023-06-14.pdf)  
+ 2023 - Anna Livia Croella, Bjørnar Luteberget, Carlo Mannino, Paolo Ventura
  * [An optimization-based decision support tool for incremental train timetabling](https://luteberget.github.io/preprints/orptool-2023-07-05.pdf)  
  2023 - Oddvar Kloster, Bjørnar Luteberget, Carlo Mannino, Giorgio Sartor
  * [Feasibility Jump: an LP-free Lagrangian MIP heuristic](https://luteberget.github.io/preprints/feasibilityjump-2023-01-09.pdf)  
