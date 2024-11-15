@@ -31,43 +31,43 @@ Master's thesis (2010): [Numerical approximation of conformal mappings](https://
 
 ### Presentations
 
- * 2024-11-11: Planning and execution of UAV surveillance missions [slides](https://luteberget.github.io/preprints/slides/2024-11-11-surveillance-slides.pdf)
+ * [2024-11-11](https://luteberget.github.io/preprints/slides/2024-11-11-surveillance-slides.pdf): Planning and execution of UAV surveillance missions 
  ROBPLAN project webinar
- * 2024-09-11: Conflict-based search for real-time railway dispatching [slides](https://luteberget.github.io/preprints/slides/2024-09-11-cbs-rail-ods2024-slides.pdf)
+ * [2024-09-11](https://luteberget.github.io/preprints/slides/2024-09-11-cbs-rail-ods2024-slides.pdf): Conflict-based search for real-time railway dispatching 
  Optimization and Decision Science conference (ODS) 2024
- * 2024-09-10: The DISPLIB 2025 train dispatching competition [slides](https://luteberget.github.io/preprints/slides/2024-09-10-displib-ods2024-slides.pdf)
+ * [2024-09-10](https://luteberget.github.io/preprints/slides/2024-09-10-displib-ods2024-slides.pdf): The DISPLIB 2025 train dispatching competition 
  Optimization and Decision Science conference (ODS) 2024
- * 2024-05-14: Conflict analysis in SAT solvers [slides](https://luteberget.github.io/preprints/slides/2024-05-14-clause-learning-sintef-slides.pdf)
+ * [2024-05-14](https://luteberget.github.io/preprints/slides/2024-05-14-clause-learning-sintef-slides.pdf): Conflict analysis in SAT solvers 
  SINTEF internal seminar
- * 2024-01-24. Dynamic time discretization for train scheduling [slides](https://luteberget.github.io/preprints/slides/2024-01-24-ddd-motional-slides.pdf)
+ * [2024-01-24](https://luteberget.github.io/preprints/slides/2024-01-24-ddd-motional-slides.pdf): Dynamic time discretization for train scheduling 
  Europe's Rail MOTIONAL project meeting
- * 2023-12-01: Optimizing radial power distribution grids [slides](https://luteberget.github.io/preprints/slides/2023-12-01-powerflow-nors-slides.pdf)
+ * [2023-12-01](https://luteberget.github.io/preprints/slides/2023-12-01-powerflow-nors-slides.pdf): Optimizing radial power distribution grids 
  Norwegian operations research society (NORS) workshop “Reality bites” 
- * 2023-09-07: The Feasibility Jump: an LP-free Lagrangian MIP heuristic [slides](https://luteberget.github.io/preprints/slides/2023-09-07-feasibilityjump-ods-slides.pdf)
+ * [2023-09-07](https://luteberget.github.io/preprints/slides/2023-09-07-feasibilityjump-ods-slides.pdf): The Feasibility Jump: an LP-free Lagrangian MIP heuristic 
  Optimization and Decision Science conference (ODS) 2023
- * 2023-03-28: Optimization using a SAT solver [slides](https://luteberget.github.io/preprints/slides/2023-03-28-unsat-core-optimization-sintef-slides.pdf)
+ * [2023-03-28](https://luteberget.github.io/preprints/slides/2023-03-28-unsat-core-optimization-sintef-slides.pdf): Optimization using a SAT solver 
  SINTEF internal seminar
- * 2022-09-14: Planning Autonomous Marine Inspection Tasks Using SMT Encoding of Timelines [slides](https://luteberget.github.io/preprints/slides/2022-09-14-smttimelines-slides.pdf)
+ * [2022-09-14](https://luteberget.github.io/preprints/slides/2022-09-14-smttimelines-slides.pdf): Planning Autonomous Marine Inspection Tasks Using SMT Encoding of Timelines 
  Control Applications in Marine Systems, Robotics and Vehicles (CAMS) conference 2022
- * 2021-10-22: Improving Online Railway Deadlock Detection using a Partial Order Reduction [slides](https://luteberget.github.io/preprints/slides/2021-10-22-deadlockrail-slides.pdf)
+ * [2021-10-22](https://luteberget.github.io/preprints/slides/2021-10-22-deadlockrail-slides.pdf): Improving Online Railway Deadlock Detection using a Partial Order Reduction 
  Formal Methods for Autonomous Systems (FMAS) workshop 2021
- * 2019-12-04: Automated Drawing of Railway Schematics using Numerical Optimization in SAT [slides](https://luteberget.github.io/preprints/slides/2019-12-04-railschematics-ifm-slides.pdf)
+ * [2019-12-04](https://luteberget.github.io/preprints/slides/2019-12-04-railschematics-ifm-slides.pdf): Automated Drawing of Railway Schematics using Numerical Optimization in SAT 
  Integrated Formal Methods (iFM) conference 2019
- * 2019-10-28: SAT-based algorithms in railway infrastructure design [slides](https://luteberget.github.io/preprints/slides/2019-10-28-sintef-slides.pdf)
+ * [2019-10-28](https://luteberget.github.io/preprints/slides/2019-10-28-sintef-slides.pdf): SAT-based algorithms in railway infrastructure design 
  SINTEF
- * 2019-10-18: Automated Reasoning for Planning Railway Infrastructure [slides](https://luteberget.github.io/preprints/slides/2019-10-18-phddefence-slides.pdf)
+ * [2019-10-18](https://luteberget.github.io/preprints/slides/2019-10-18-phddefence-slides.pdf): Automated Reasoning for Planning Railway Infrastructure 
  University of Oslo Ph.D. defence
- * 2019-10-18: Algorithmic Game Theory [slides](https://luteberget.github.io/preprints/slides/2019-10-18-algorithmic-game-theory-uio-slides.pdf)
+ * [2019-10-18](https://luteberget.github.io/preprints/slides/2019-10-18-algorithmic-game-theory-uio-slides.pdf): Algorithmic Game Theory 
  University of Oslo trial lecture (a part of the Ph.D. defence)
- * 2019-10-09: Optimization and synthesis of railway signalling layout from local capacity specifications [slides](https://luteberget.github.io/preprints/slides/2019-10-09-railsynthesis-fm-slides.pdf)
+ * [2019-10-09](https://luteberget.github.io/preprints/slides/2019-10-09-railsynthesis-fm-slides.pdf): Optimization and synthesis of railway signalling layout from local capacity specifications 
  Formal Methods (FM) conference 2019
- * 2018-10-25: Design of railway signalling using SAT-based planning [slides](https://luteberget.github.io/preprints/slides/2018-10-25-nwpt-slides.pdf)
+ * [2018-10-25](https://luteberget.github.io/preprints/slides/2018-10-25-nwpt-slides.pdf): Design of railway signalling using SAT-based planning 
  Nordic Workshop on Programming Theory (NWPT) 2018
- * 2018-10-08: Design-Time Railway Capacity Verification using SAT modulo Discrete Event Simulation [slides](https://luteberget.github.io/preprints/slides/2018-10-08-chalmers-slides.pdf)
+ * [2018-10-08](https://luteberget.github.io/preprints/slides/2018-10-08-chalmers-slides.pdf): Design-Time Railway Capacity Verification using SAT modulo Discrete Event Simulation 
  Chalmers University Formal Methods group seminar
- * 2017-10: RailCons Railway Infrastructure Verification [slides](https://luteberget.github.io/preprints/slides/2017-10-darmstadt-slides.pdf)
+ * [2017-10](https://luteberget.github.io/preprints/slides/2017-10-darmstadt-slides.pdf): RailCons Railway Infrastructure Verification 
  TU Darmstadt visit
- * 2016-11-10: Rule-based Incremental Verification Tools Applied to Railway Designs and Regulations [slides](https://luteberget.github.io/preprints/slides/2016-11-10-incrementaldatalog-fm-slides.pdf)
+ * [2016-11-10](https://luteberget.github.io/preprints/slides/2016-11-10-incrementaldatalog-fm-slides.pdf): Rule-based Incremental Verification Tools Applied to Railway Designs and Regulations 
  Formal Methods (FM) conference 2016
 
 
