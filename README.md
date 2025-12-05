@@ -31,9 +31,9 @@ Master's thesis (2010): [Numerical approximation of conformal mappings](https://
 
 ### Presentations
 
- * [2025-09-19](https://luteberget.github.io/preprints/slides/2025-09-19-ddd-slides.pdf): Dynamic time discretization for train scheduling
+ * [2025-09-19](https://luteberget.github.io/preprints/slides/2025-09-19-ddd-slides.pdf): Dynamic time discretization for train scheduling  
  Seminar at European Space Agency's Advanced Concepts Team
- * [2025-09-02](https://luteberget.github.io/preprints/slides/2025-09-02-implication-graph-search.pdf): Implication learning for train dispatching
+ * [2025-09-02](https://luteberget.github.io/preprints/slides/2025-09-02-implication-graph-search.pdf): Implication learning for train dispatching  
  Optimization and Decision Science conference (ODS) 2025
  * [2024-11-11](https://luteberget.github.io/preprints/slides/2024-11-11-surveillance-slides.pdf): Planning and execution of UAV surveillance missions  
  ROBPLAN project webinar
