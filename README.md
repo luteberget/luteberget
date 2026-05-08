@@ -4,6 +4,10 @@ Working on automated reasoning, formal methods, and optimization, with applicati
 
 ## Preprints
 
+ * [A Novel Tree Search Strategy for Real-Time Conflict Resolution in Railways](https://luteberget.github.io/preprints/dispatching-search-strategy-2026-05-08.pdf)  
+ 2025 - Carl Fredrik Knutsen, Astrid Mysterud, Bjørnar Luteberget, Giorgio Sartor
+ * [Deadlock Detection in Real-Time Railway Dispatching Using SMT](https://luteberget.github.io/preprints/deadlock-smt-cycles-2026-05-08.pdf)  
+ 2025 - Bjørnar Luteberget, Carlo Mannino
  * [A MaxSAT approach for solving a new Dynamic Discretization Discovery model for train rescheduling problems](https://luteberget.github.io/preprints/maxsatddd-2024-04-25.pdf)  
  2023 - Anna Livia Croella, Bjørnar Luteberget, Carlo Mannino, Paolo Ventura
  * [An optimization-based decision support tool for incremental train timetabling](https://luteberget.github.io/preprints/orptool-2023-07-05.pdf)  
